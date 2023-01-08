@@ -1,2 +1,10 @@
 
-/* Your CSS Code here. */
+div.h1{
+    text-align: center;
+}
+.shopping li{
+    background-color: aqua;
+}
+.place li{
+    background-color: lightblue;
+}
